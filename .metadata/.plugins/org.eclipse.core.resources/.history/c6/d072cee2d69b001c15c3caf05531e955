@@ -1,0 +1,9 @@
+package Dominio;
+
+public class Mentoria {
+
+	String titulo;
+	String descricao;
+	int cargaHoraria;
+	
+}

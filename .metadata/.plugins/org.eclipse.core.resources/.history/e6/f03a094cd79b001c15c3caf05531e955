@@ -1,0 +1,11 @@
+package Dominio;
+
+import java.time.LocalDate;
+
+public class Curso {
+
+	private String titulo;
+	private String descricao;
+	private LocalDate data;
+	
+}

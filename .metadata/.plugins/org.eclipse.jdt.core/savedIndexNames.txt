@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\GitHub Desktop\Repositorios\Desafio-Dio-GFT-Start-Dominio-Aplicacao\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+876481077.index
+1671692264.index
